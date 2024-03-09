@@ -1,4 +1,4 @@
-{
+
   [
     {
       name: "Паномат",
@@ -95,10 +95,10 @@
       location: "Barfußgässchen 11, 04109 Leipzig, Германия",
       category: "Рестораны и кафе",
       coordinates: { latitude: 51.3403, longitude: 12.3781 },
-      photo: "https://example.com/leverkusen_restaurant.jpg",
-    },
-  ];
-}
+      photo: "https://example.com/leverkusen_restaurant.jpg"
+    }
+  ]
+
 // [ {
 //     "title": "",
 //     "desc": "",
